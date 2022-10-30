@@ -1,4 +1,4 @@
-# Simple shell made for cs345 course -Computer Science Department University Of Crete 
+# Simple shell made for cs345 course - Computer Science Department - University Of Crete 
 
 # The shell: 
 
