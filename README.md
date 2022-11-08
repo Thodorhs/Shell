@@ -1,5 +1,5 @@
 # A Simple shell
-*cs345 course - Computer Science Department - University Of Crete *
+*cs345 course - Computer Science Department - University Of Crete*
 
 # The shell: 
 
